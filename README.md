@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://SergBY.github.io/rsschool-cv/cv
