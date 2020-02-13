@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+fix: change layout
